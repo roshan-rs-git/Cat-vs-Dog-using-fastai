@@ -1,4 +1,4 @@
-# Cat-vs-Dog-using-fastai
+#### Cat-vs-Dog-using-fastai
 A fastai resnet34 model which classify cats and Dogs with 99.93 accuracy
 
-### Referrence- [fastai](https://docs.fast.ai/)
+### Reference- [fastai](https://docs.fast.ai/)
