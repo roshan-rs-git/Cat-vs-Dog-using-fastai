@@ -19,23 +19,11 @@ PIL
 pandas
 ```
 
-## 📁 Project Structure
-
-```
-.
-├── data/
-│   └── dogs/        # Dog image dataset
-├── models/          # Saved model weights
-├── notebooks/
-│   └── training.ipynb   # Main training notebook
-└── README.md
-```
-
 ## 🚀 Getting Started
 
 1. Clone this repository:
 ```bash
-git clone https://github.com/yourusername/dog-classification.git
+git clone https://github.com/roshan-rs-git/dog-classification.git
 ```
 
 2. Install required packages:
